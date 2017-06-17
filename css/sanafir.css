@@ -37,9 +37,19 @@ body[lime] .inverse {background: #403A0B;color:#F4FF81}
 
 /*theme TEAL*/
 body[teal] {
-  background: #B2DFDB;
-}
-body[teal] .mainmenu {
   background: #E0F2F1;
 }
+body[teal] .mainmenu {
+  background: #B2DFDB;
+}
 body[teal] .mainmenu ul li , body[teal] .mainmenu ul li a ,body[teal] .mainmenu ul li i {color:#004D40;}
+
+
+/*theme AMBER*/
+body[amber] {
+  background: #FFF8E1;
+}
+body[amber] .mainmenu , , body[amber] .vrow {
+  background: #FFECB3;
+}
+body[amber] .mainmenu ul li , body[amber] .mainmenu ul li a ,body[amber] .mainmenu ul li i {color:#FF6F00;}
