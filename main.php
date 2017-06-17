@@ -24,7 +24,71 @@
 <?php include 'inc/menu.php' ?>
 
 
-HELLO
+
+<div class="container">
+<div class="row">
+<div class="col-sm-5">
+<div class="vrow accent">
+<br><br>
+<a href="#" class="btn btn-default btn-block btn-lg btn-xl"> AJOUTER</a>
+
+</div>
+
+<div class="vrow accent">
+  <br>
+  <br>
+  <br>
+<input type="text" name="" class="form-control" value="">
+</div>
+
+
+<div class="vrow inverse">
+<div class="timer">15:00</div>
+</div>
+
+
+</div>
+
+
+<div class="col-sm-7">
+  <div class="vrow full">
+<table class="table table-bordered">
+<body>
+
+
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+  <tr><td>1</td><td>CLIENT</td><td>TYPE</td><td>PRIX</td><td>DATE ET HEURE</td></tr>
+
+
+</body>
+</table>
+
+
+
+
+  </div>
+</div>
+
+</div>
+
+
+</div>
 
 
      <!-- <script src="js/jquery.min.js"></script>
